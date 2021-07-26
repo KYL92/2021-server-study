@@ -1,4 +1,4 @@
-# *2021-winter-study*
+# *2021-server-study*
 Study on How to use web based deep learning IDE and PyTorch
 
 
